@@ -9,6 +9,10 @@
 
 
 <h1 <b text-align: center> whoarewe ?</b></h1>
+<p align="center"> 
+  Visitors count 😄<br>
+  <img src="https://profile-counter.glitch.me/DSCTOCE/count.svg" />
+</p>
         
 
 <div align="center">
